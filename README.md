@@ -1,5 +1,5 @@
 # experiment-generation
-This Python program generates names of experimental trials based on a letter code system and can be adapted to any experiment. Specifically, users can specify a two-letter naming system for trials where each letter represents a condition.
+``set_trials.py`` generates names of experimental trials based on a letter code system and can be adapted to any experiment. Specifically, users can specify a two-letter naming system for trials where each letter represents a condition.
 This program will randomly generate a set of trials, each with 2 conditions for each participant, "translate" the letter code system to the actual conditions by using a user-specified
 dictionary, and will print the shuffled list of trials for the participant.
 
